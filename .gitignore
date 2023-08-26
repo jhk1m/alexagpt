@@ -1,14 +1,22 @@
-# dependencies
+# Dependencies
 /node_modules
 
-# testing
+# Testing
 /coverage
 
-# production
+# Production
 /build
-/skill.json
+skill.json
 
-# misc
+# Editor
+.vscode
+.vscode-test
+
+# Misc
+trash
+.tmp
+.rvmrc
+.trashes
 .DS_Store
 .env.local
 .env.development.local
