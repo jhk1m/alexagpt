@@ -1,0 +1,1 @@
+module.exports.OPEN_AI_KEY='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';
