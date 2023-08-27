@@ -6,6 +6,7 @@
 
 # Production
 /build
+./keys.js
 
 # Editor
 .vscode
